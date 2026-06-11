@@ -225,7 +225,7 @@ No console errors
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone (https://github.com/PaulinaS123/Mastering-useEffect-with-a-Responsive-Canvas.git)
 ```
 
 Navigate into the project folder:
@@ -245,9 +245,6 @@ Start the development server:
 ```bash
 npm run dev
 ```
-
-Open the application in your browser using the URL displayed in the terminal.
-
 ---
 
 ## Project Structure
